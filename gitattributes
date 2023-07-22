@@ -1,0 +1,2 @@
+*.makefile linguist-detecable=false
+*.dart linguist-detecable=true
