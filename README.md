@@ -6,9 +6,7 @@ Reçete Melekleri - F153
 ## Takım Elemanları
 - Behiye Nilay Oğultekin: Product Owner / Developer
 - İrem Nur Taşci: Scrum Master / Developer
-- Mehmet Yasin Uzun: Developer
 - Arzu Nisa Yalçınkaya: Developer
-- Mehdi Eren: Aktif Olmayan Üye
 
 ## Ürün İsmi
 
